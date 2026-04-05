@@ -141,9 +141,15 @@ Maintains a polite and conversational tone
 
 ✅ Handles unknown queries gracefully
 
-Demo
+# Demo
 
-attached
+
+
+
+https://github.com/user-attachments/assets/96ccb55e-d28f-409f-827d-977b886182eb
+
+
+
 
 
  # Use Cases
